@@ -1,4 +1,7 @@
 # CNS-Frontend-Visualization-Framework
+
+*WARNING:* _This code is no longer actively maintained._ Check out [ngx-dino](https://github.com/cns-iu/ngx-dino) or [make-a-vis](https://github.com/cns-iu/make-a-vis) for our more current visualization framework code.
+
 This framework contains a set of workflows, configurations, and tools to simplify web visualization creation and customization for CNS projects. This was made primarily for [D3js] visualizations, but can be used to create non-[D3js] visualizations with minimal modification. This framework is used in conjunction with the plugin repository found [here](https://github.iu.edu/CNS/CNS-WVF-Plugins). 
 
 ## Goal
